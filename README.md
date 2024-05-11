@@ -3,7 +3,7 @@
 Component was built as a React Library.
 Playground page contains an example of how to use it.
 
-In order to allow customization, users can pass a custom collapsed version of the Widget Button. Playground has a radio button showing a default and custom button instances
+Users can pass a custom collapsed version of the Widget Button. Playground has a radio button showing a default and custom button instances.
 
 ## Running
 
