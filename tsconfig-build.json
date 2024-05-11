@@ -1,0 +1,5 @@
+{
+  "extends": "./tsconfig.json",
+  // For shipping to prod we just want to have lib folder being built
+  "include": ["lib"]
+}
